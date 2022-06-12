@@ -2,6 +2,7 @@
 
 using namespace std;
 
+//declaring functions for individual exercises
 void exer1();
 void exer2();
 void exer3();
@@ -10,6 +11,7 @@ void exer4();
 
 int main()
 {
+    //uncomment to see the working of these functions
 //    exer1();
 //    exer2();
     exer3();
